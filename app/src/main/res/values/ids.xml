@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etValorHora" type="id" />
+    <item name="etHorasTrabajadas" type="id" />
+    <item name="btnCalcular" type="id" />
+</resources>
